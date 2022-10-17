@@ -79,3 +79,12 @@ footer {
   background: black;
   padding: 30px;
 }
+
+/* botoes */
+.botao_verde {
+  background:#13605A;
+}
+
+.botao_verde:hover {
+  background:#0B4A46;
+ }
